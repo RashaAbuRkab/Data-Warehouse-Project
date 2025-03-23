@@ -14,7 +14,7 @@ A leading football analytics company, specializing in performance statistics for
 - Match statistics, player details, and team data were scattered across multiple disconnected systems, making data retrieval inefficient.
 
 #### 2️⃣ Slow Reporting and Analysis
-- Analysts manually compiled reports, leading to delays in performance evaluations and decision-making.
+- Analysts manually compiled reports, leading to performance evaluations and decision-making delays.
 
 #### 3️⃣ Limited Advanced Insights
 - The lack of a centralized system prevented in-depth analytics such as expected goals (xG) or long-term performance trends.
@@ -70,7 +70,7 @@ To better illustrate the transformation, the following images showcase the **exi
 
 ### **1️⃣ Clone the Repository :**
 ```bash
-git clone https://github.com/YourGitHubUsername/dwh-201-final-project
+git clone git@github.com:RashaAbuRkab/Data-Warehouse-Project.git
 ```
 ### **2️⃣ Install Dependencies :**
 ```bash
@@ -108,8 +108,8 @@ This transformation has revolutionized how the company processes and leverages d
 
 ## 👨‍💻 Team Members 
 ### **This project was developed by:**
-- Roaa Alhaddad
 - Rasha Abu Rkab
+- Roaa Alhaddad
 - Fatma Alzahraa Alhabbash
 - Shahed Althalethini
 
