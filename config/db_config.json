@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": 5432,
+    "database": "footbal_dw",
+    "username": "postgres",
+    "password": "123456"
+}
