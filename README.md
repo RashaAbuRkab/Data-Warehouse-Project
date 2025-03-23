@@ -1,7 +1,7 @@
 # ⚽ Football Analytics Data Warehouse
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/7051763f-f01e-4444-8201-2acc577a3b57" alt="Football Analytics" width="700"/>
+  <img src=https://github.com/user-attachments/assets/e3c32ad3-7318-4a64-970d-67895c605b25 alt="Football Analytics" width="700"/>
 </div>
 
 ## 📌 Problem: Inefficient Data Management in a Sports Analytics Company
@@ -60,12 +60,14 @@ To better illustrate the transformation, the following images showcase the **exi
 
 | Legacy Schema | Optimized Star Schema |
 |--------------|----------------------|
-|![oldschema](https://github.com/user-attachments/assets/61146d38-19f7-43da-b4fc-1aa600ddc413) | ![starschema](https://github.com/user-attachments/assets/7d7bac87-ea6a-4a72-ae1d-3c222f8e7be0) |
+|![oldschema](https://github.com/user-attachments/assets/0ba4f7b3-648d-4753-9422-6f23ee6d708e) | ![starschema](https://github.com/user-attachments/assets/a886ede5-afd6-4cb2-bc54-f54ab801df12) |
+
 
 
 
 
 ## ⚙️ Setup Instructions : 
+
 ### **1️⃣ Clone the Repository :**
 ```bash
 git clone https://github.com/YourGitHubUsername/dwh-201-final-project
